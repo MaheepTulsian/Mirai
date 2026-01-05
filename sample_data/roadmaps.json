@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Backend Developer Roadmap",
+    "description": "Complete guide to becoming a backend developer, covering server-side programming, databases, APIs, and system design",
+    "level": "Intermediate",
+    "logo": null,
+    "category": "Development",
+    "externalReferenceLink": "https://roadmap.sh/backend",
+    "milestones": [
+      {
+        "title": "Master a Backend Language",
+        "description": "Learn a server-side programming language like Python, Java, Node.js, or Go. Focus on syntax, data structures, and OOP concepts.",
+        "topics": ["Python/Java/Node.js basics", "Object-Oriented Programming", "Data Structures & Algorithms", "Design Patterns"],
+        "resourceLink": "https://www.codecademy.com/catalog/language/python"
+      },
+      {
+        "title": "Database Management",
+        "description": "Understand relational and NoSQL databases. Learn SQL, database design, indexing, and transactions.",
+        "topics": ["SQL Fundamentals", "PostgreSQL/MySQL", "MongoDB/Redis", "Database Design & Normalization"],
+        "resourceLink": "https://www.postgresql.org/docs/current/tutorial.html"
+      },
+      {
+        "title": "APIs & Web Services",
+        "description": "Build RESTful APIs, understand HTTP protocols, authentication, and API best practices.",
+        "topics": ["REST API Design", "GraphQL", "JWT Authentication", "API Documentation"],
+        "resourceLink": "https://restfulapi.net"
+      },
+      {
+        "title": "System Design & Scalability",
+        "description": "Learn to design scalable systems, caching strategies, load balancing, and microservices architecture.",
+        "topics": ["Caching (Redis)", "Load Balancing", "Microservices", "Message Queues"],
+        "resourceLink": "https://github.com/donnemartin/system-design-primer"
+      }
+    ]
+  },
+  {
+    "name": "Frontend Developer Roadmap",
+    "description": "Path to becoming a modern frontend developer with HTML, CSS, JavaScript, and popular frameworks",
+    "level": "Beginner",
+    "logo": null,
+    "category": "Development",
+    "externalReferenceLink": "https://roadmap.sh/frontend",
+    "milestones": [
+      {
+        "title": "HTML & CSS Fundamentals",
+        "description": "Master semantic HTML, CSS layouts, Flexbox, Grid, and responsive design principles.",
+        "topics": ["Semantic HTML5", "CSS Flexbox & Grid", "Responsive Design", "CSS Preprocessors (Sass)"],
+        "resourceLink": "https://developer.mozilla.org/en-US/docs/Learn"
+      },
+      {
+        "title": "JavaScript Essentials",
+        "description": "Learn modern JavaScript (ES6+), DOM manipulation, async programming, and browser APIs.",
+        "topics": ["ES6+ Syntax", "DOM Manipulation", "Promises & Async/Await", "Fetch API"],
+        "resourceLink": "https://javascript.info"
+      },
+      {
+        "title": "Frontend Framework",
+        "description": "Choose and master a modern framework like React, Vue, or Angular for building dynamic UIs.",
+        "topics": ["React/Vue/Angular", "Component Architecture", "State Management", "Routing"],
+        "resourceLink": "https://react.dev"
+      },
+      {
+        "title": "Build Tools & Deployment",
+        "description": "Learn version control, build tools, testing, and deployment strategies.",
+        "topics": ["Git & GitHub", "Webpack/Vite", "Testing (Jest)", "CI/CD"],
+        "resourceLink": "https://vitejs.dev/guide/"
+      }
+    ]
+  },
+  {
+    "name": "AI/ML Roadmap",
+    "description": "Comprehensive guide to artificial intelligence and machine learning from basics to advanced topics",
+    "level": "Advanced",
+    "logo": null,
+    "category": "AI/ML",
+    "externalReferenceLink": "https://roadmap.sh/ai-data-scientist",
+    "milestones": [
+      {
+        "title": "Mathematics Foundation",
+        "description": "Build strong foundation in linear algebra, calculus, probability, and statistics.",
+        "topics": ["Linear Algebra", "Calculus", "Probability Theory", "Statistics"],
+        "resourceLink": "https://www.khanacademy.org/math"
+      },
+      {
+        "title": "Python & ML Libraries",
+        "description": "Master Python and essential ML libraries like NumPy, Pandas, Scikit-learn, TensorFlow, and PyTorch.",
+        "topics": ["Python for ML", "NumPy & Pandas", "Scikit-learn", "TensorFlow/PyTorch"],
+        "resourceLink": "https://www.tensorflow.org/tutorials"
+      },
+      {
+        "title": "Core ML Algorithms",
+        "description": "Understand supervised and unsupervised learning algorithms, model evaluation, and feature engineering.",
+        "topics": ["Regression & Classification", "Clustering", "Neural Networks", "Feature Engineering"],
+        "resourceLink": "https://www.coursera.org/specializations/machine-learning-introduction"
+      },
+      {
+        "title": "Deep Learning & Deployment",
+        "description": "Learn advanced neural networks, computer vision, NLP, and model deployment.",
+        "topics": ["CNNs & RNNs", "Transfer Learning", "NLP with Transformers", "Model Deployment (MLOps)"],
+        "resourceLink": "https://www.deeplearning.ai"
+      }
+    ]
+  }
+]

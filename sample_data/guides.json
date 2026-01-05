@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Cracking the Coding Interview",
+    "description": "The definitive guide to technical interview preparation. Learn data structures, algorithms, and problem-solving strategies used by top tech companies.",
+    "category": "Interview",
+    "resourceLink": "https://www.crackingthecodinginterview.com",
+    "logo": null,
+    "topics": ["Arrays & Strings", "LinkedLists", "Trees & Graphs", "Dynamic Programming", "System Design"],
+    "steps": null
+  },
+  {
+    "title": "LeetCode DSA Guide",
+    "description": "Systematic approach to mastering data structures and algorithms through LeetCode problems. Covers patterns and strategies for efficient problem solving.",
+    "category": "DSA",
+    "resourceLink": "https://leetcode.com/explore",
+    "logo": null,
+    "topics": ["Two Pointers", "Sliding Window", "Binary Search", "BFS/DFS", "Backtracking"],
+    "steps": ["Start with Easy problems", "Focus on one pattern at a time", "Practice 2-3 problems daily", "Review solutions and optimize", "Move to Medium problems after comfort"]
+  },
+  {
+    "title": "System Design Interview Guide",
+    "description": "Complete guide to acing system design interviews. Learn to design scalable systems like URL shorteners, social media feeds, and distributed caches.",
+    "category": "System Design",
+    "resourceLink": "https://github.com/donnemartin/system-design-primer",
+    "logo": null,
+    "topics": ["Scalability", "Load Balancing", "Caching", "Database Sharding", "CAP Theorem"],
+    "steps": null
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "description": "Essential reading for software developers. Covers best practices, code quality, debugging, and career development strategies.",
+    "category": "Books",
+    "resourceLink": "https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/",
+    "logo": null,
+    "topics": ["Code Quality", "Debugging Techniques", "Version Control", "Testing", "Career Growth"],
+    "steps": null
+  },
+  {
+    "title": "Resume Building for Tech Roles",
+    "description": "Create ATS-friendly resumes that get noticed by recruiters. Learn what to include, how to format, and common mistakes to avoid.",
+    "category": "Career",
+    "resourceLink": "https://www.reddit.com/r/cscareerquestions/wiki/faq_resumes/",
+    "logo": null,
+    "topics": null,
+    "steps": ["Use clean, ATS-friendly templates", "Quantify your achievements with metrics", "Highlight relevant technologies and skills", "Include impactful project descriptions", "Keep it to 1-2 pages maximum", "Proofread for grammar and spelling errors"]
+  }
+]

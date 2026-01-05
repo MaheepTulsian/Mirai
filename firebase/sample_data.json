@@ -1,0 +1,200 @@
+{
+  "jobs": [
+    {
+      "title": "Backend Developer - Freshers",
+      "company": "Tech Solutions Inc",
+      "location": "Bangalore, India",
+      "description": "Join our team as a Backend Developer. Work with Node.js, MongoDB, and build scalable APIs.",
+      "tags": ["backend", "nodejs", "mongodb", "fresher"],
+      "logo": "https://via.placeholder.com/150",
+      "link": "https://example.com/apply",
+      "postedDate": 1735467890123,
+      "isActive": true
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Digital Innovations",
+      "location": "Remote",
+      "description": "Looking for React developers to build modern web applications.",
+      "tags": ["frontend", "react", "javascript", "remote"],
+      "logo": "https://via.placeholder.com/150",
+      "link": "https://example.com/apply",
+      "postedDate": 1735467890123,
+      "isActive": true
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "StartupXYZ",
+      "location": "Mumbai, India",
+      "description": "Build end-to-end applications with MERN stack.",
+      "tags": ["fullstack", "mern", "react", "nodejs"],
+      "logo": "https://via.placeholder.com/150",
+      "link": "https://example.com/apply",
+      "postedDate": 1735467890123,
+      "isActive": true
+    }
+  ],
+  "internships": [
+    {
+      "title": "Web Development Intern",
+      "company": "Tech Startup",
+      "location": "Pune, India",
+      "description": "Learn React, Node.js, and work on real projects.",
+      "tags": ["internship", "web", "react", "paid"],
+      "logo": "https://via.placeholder.com/150",
+      "link": "https://example.com/apply",
+      "postedDate": 1735467890123,
+      "isActive": true
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "AI Labs",
+      "location": "Remote",
+      "description": "Work with Python, ML models, and data analysis.",
+      "tags": ["internship", "data-science", "python", "remote"],
+      "logo": "https://via.placeholder.com/150",
+      "link": "https://example.com/apply",
+      "postedDate": 1735467890123,
+      "isActive": true
+    }
+  ],
+  "courses": [
+    {
+      "title": "Complete Web Development Bootcamp 2024",
+      "platform": "Udemy",
+      "instructor": "Angela Yu",
+      "description": "Master HTML, CSS, JavaScript, React, Node.js, and MongoDB",
+      "level": "beginner",
+      "duration": "52 hours",
+      "price": 499,
+      "originalPrice": 4999,
+      "tags": ["web-development", "fullstack", "javascript"],
+      "logo": "https://via.placeholder.com/300x200",
+      "enrollLink": "https://udemy.com/course/web-development-bootcamp",
+      "rating": 4.7,
+      "isActive": true
+    },
+    {
+      "title": "React - The Complete Guide",
+      "platform": "Udemy",
+      "instructor": "Maximilian Schwarzmüller",
+      "description": "Deep dive into React with hooks, Redux, Next.js",
+      "level": "intermediate",
+      "duration": "48 hours",
+      "price": 449,
+      "originalPrice": 3999,
+      "tags": ["react", "frontend", "javascript"],
+      "logo": "https://via.placeholder.com/300x200",
+      "enrollLink": "https://udemy.com/course/react-complete-guide",
+      "rating": 4.8,
+      "isActive": true
+    },
+    {
+      "title": "Python for Data Science",
+      "platform": "Coursera",
+      "instructor": "IBM",
+      "description": "Learn Python, NumPy, Pandas, Matplotlib for data analysis",
+      "level": "beginner",
+      "duration": "25 hours",
+      "price": 0,
+      "originalPrice": 0,
+      "tags": ["python", "data-science", "free"],
+      "logo": "https://via.placeholder.com/300x200",
+      "enrollLink": "https://coursera.org/python-data-science",
+      "rating": 4.6,
+      "isActive": true
+    }
+  ],
+  "roadmaps": [
+    {
+      "name": "Frontend Developer Roadmap 2024",
+      "description": "Complete path to becoming a professional frontend developer",
+      "category": "Web Development",
+      "difficulty": "Beginner to Advanced",
+      "estimatedTime": "6-12 months",
+      "tags": ["frontend", "web-development", "career"],
+      "imageUrl": "https://via.placeholder.com/400x300",
+      "steps": [
+        {
+          "title": "HTML & CSS Fundamentals",
+          "description": "Learn the building blocks of web pages",
+          "resources": [
+            {
+              "name": "HTML & CSS Crash Course",
+              "url": "https://youtube.com/watch?v=example",
+              "type": "video"
+            }
+          ]
+        },
+        {
+          "title": "JavaScript Basics",
+          "description": "Master JavaScript fundamentals",
+          "resources": [
+            {
+              "name": "JavaScript.info",
+              "url": "https://javascript.info",
+              "type": "article"
+            }
+          ]
+        },
+        {
+          "title": "React.js",
+          "description": "Build modern UIs with React",
+          "resources": [
+            {
+              "name": "Official React Docs",
+              "url": "https://react.dev",
+              "type": "documentation"
+            }
+          ]
+        }
+      ],
+      "isActive": true
+    },
+    {
+      "name": "Backend Developer Roadmap",
+      "description": "Path to becoming a backend engineer",
+      "category": "Backend Development",
+      "difficulty": "Beginner to Advanced",
+      "estimatedTime": "8-12 months",
+      "tags": ["backend", "nodejs", "databases"],
+      "imageUrl": "https://via.placeholder.com/400x300",
+      "steps": [
+        {
+          "title": "Programming Fundamentals",
+          "description": "Learn a backend language (Node.js/Python/Java)",
+          "resources": []
+        },
+        {
+          "title": "Databases",
+          "description": "SQL and NoSQL databases",
+          "resources": []
+        },
+        {
+          "title": "APIs & Authentication",
+          "description": "REST APIs, JWT, OAuth",
+          "resources": []
+        }
+      ],
+      "isActive": true
+    }
+  ],
+  "guide": [
+    {
+      "name": "Getting Started with Git & GitHub",
+      "description": "Complete guide to version control",
+      "category": "Development Tools",
+      "tags": ["git", "github", "version-control"],
+      "content": "Learn Git basics, branching, merging, and collaboration",
+      "isActive": true
+    },
+    {
+      "name": "DSA Interview Preparation",
+      "description": "Prepare for coding interviews",
+      "category": "Interview Prep",
+      "tags": ["dsa", "algorithms", "interview"],
+      "content": "Practice arrays, linked lists, trees, graphs, and dynamic programming",
+      "isActive": true
+    }
+  ]
+}

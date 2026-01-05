@@ -1,0 +1,47 @@
+[
+  {
+    "title": "CS50: Introduction to Computer Science",
+    "platform": "Harvard (edX)",
+    "duration": "12 weeks",
+    "level": "Beginner",
+    "description": "Harvard's introduction to computer science and programming. Covers algorithms, data structures, web development, and more.",
+    "enrollLink": "https://www.edx.org/cs50",
+    "logo": "https://logo.clearbit.com/edx.org"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "platform": "Coursera (Stanford)",
+    "duration": "3 months",
+    "level": "Intermediate",
+    "description": "Learn the fundamentals of machine learning from Andrew Ng. Covers supervised learning, unsupervised learning, and best practices.",
+    "enrollLink": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "logo": "https://logo.clearbit.com/coursera.org"
+  },
+  {
+    "title": "The Complete Web Developer Bootcamp",
+    "platform": "Udemy",
+    "duration": "60 hours",
+    "level": "Beginner",
+    "description": "Full-stack web development course covering HTML, CSS, JavaScript, Node, React, MongoDB, and more.",
+    "enrollLink": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+    "logo": "https://logo.clearbit.com/udemy.com"
+  },
+  {
+    "title": "Deep Learning Specialization",
+    "platform": "Coursera (deeplearning.ai)",
+    "duration": "4 months",
+    "level": "Advanced",
+    "description": "Master deep learning with neural networks, CNNs, RNNs, and more. Taught by AI pioneer Andrew Ng.",
+    "enrollLink": "https://www.coursera.org/specializations/deep-learning",
+    "logo": "https://logo.clearbit.com/coursera.org"
+  },
+  {
+    "title": "AWS Certified Solutions Architect",
+    "platform": "A Cloud Guru",
+    "duration": "25 hours",
+    "level": "Intermediate",
+    "description": "Prepare for AWS certification while learning cloud architecture, EC2, S3, RDS, and more AWS services.",
+    "enrollLink": "https://acloudguru.com/course/aws-certified-solutions-architect-associate",
+    "logo": "https://logo.clearbit.com/acloudguru.com"
+  }
+]

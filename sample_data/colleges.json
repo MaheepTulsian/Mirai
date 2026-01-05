@@ -1,0 +1,62 @@
+[
+  {
+    "collegeId": "iit_bombay",
+    "name": "Indian Institute of Technology, Bombay"
+  },
+  {
+    "collegeId": "iit_delhi",
+    "name": "Indian Institute of Technology, Delhi"
+  },
+  {
+    "collegeId": "iit_madras",
+    "name": "Indian Institute of Technology, Madras"
+  },
+  {
+    "collegeId": "iit_kanpur",
+    "name": "Indian Institute of Technology, Kanpur"
+  },
+  {
+    "collegeId": "iit_kharagpur",
+    "name": "Indian Institute of Technology, Kharagpur"
+  },
+  {
+    "collegeId": "bits_pilani",
+    "name": "Birla Institute of Technology and Science, Pilani"
+  },
+  {
+    "collegeId": "iiit_hyderabad",
+    "name": "International Institute of Information Technology, Hyderabad"
+  },
+  {
+    "collegeId": "nit_trichy",
+    "name": "National Institute of Technology, Tiruchirappalli"
+  },
+  {
+    "collegeId": "nit_surathkal",
+    "name": "National Institute of Technology Karnataka, Surathkal"
+  },
+  {
+    "collegeId": "dtu_delhi",
+    "name": "Delhi Technological University"
+  },
+  {
+    "collegeId": "vit_vellore",
+    "name": "Vellore Institute of Technology"
+  },
+  {
+    "collegeId": "stanford",
+    "name": "Stanford University"
+  },
+  {
+    "collegeId": "mit",
+    "name": "Massachusetts Institute of Technology"
+  },
+  {
+    "collegeId": "berkeley",
+    "name": "University of California, Berkeley"
+  },
+  {
+    "collegeId": "cmu",
+    "name": "Carnegie Mellon University"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Sarah Chen",
+    "github": "https://github.com/sarahchen",
+    "expertise": ["Python", "Machine Learning", "TensorFlow", "Open Source"],
+    "contributions": [
+      "GSoC 2023 with TensorFlow - Implemented model optimization toolkit",
+      "Contributed to scikit-learn documentation",
+      "Mentored 3 junior contributors in ML projects"
+    ],
+    "topRepos": [
+      "tensorflow/tensorflow",
+      "scikit-learn/scikit-learn",
+      "pytorch/pytorch"
+    ]
+  },
+  {
+    "name": "Rahul Sharma",
+    "github": "https://github.com/rahulsharma",
+    "expertise": ["Kubernetes", "Go", "Cloud Native", "DevOps"],
+    "contributions": [
+      "GSoC 2022 with CNCF - Built cluster monitoring dashboard",
+      "Active contributor to Kubernetes core",
+      "Maintained Helm charts for popular applications"
+    ],
+    "topRepos": [
+      "kubernetes/kubernetes",
+      "helm/helm",
+      "prometheus/prometheus"
+    ]
+  },
+  {
+    "name": "Elena Rodriguez",
+    "github": "https://github.com/elenarodriguez",
+    "expertise": ["Rust", "WebAssembly", "Firefox", "Systems Programming"],
+    "contributions": [
+      "GSoC 2023 with Mozilla - Improved Firefox memory management",
+      "Contributed to Rust compiler optimizations",
+      "Wrote technical blog posts on WebAssembly"
+    ],
+    "topRepos": [
+      "mozilla/gecko-dev",
+      "rust-lang/rust",
+      "WebAssembly/WASI"
+    ]
+  },
+  {
+    "name": "Alex Kim",
+    "github": "https://github.com/alexkim",
+    "expertise": ["Apache Kafka", "Distributed Systems", "Java", "Big Data"],
+    "contributions": [
+      "GSoC 2021 with Apache - Enhanced Kafka Streams API",
+      "Fixed critical bugs in Apache Flink",
+      "Presented at ApacheCon about streaming architectures"
+    ],
+    "topRepos": [
+      "apache/kafka",
+      "apache/flink",
+      "apache/spark"
+    ]
+  },
+  {
+    "name": "Priya Patel",
+    "github": "https://github.com/priyapatel",
+    "expertise": ["NumPy", "Scientific Computing", "Python", "C"],
+    "contributions": [
+      "GSoC 2023 with NumPy - Optimized array operations",
+      "Contributed to SciPy documentation",
+      "Developed tutorials for scientific Python"
+    ],
+    "topRepos": [
+      "numpy/numpy",
+      "scipy/scipy",
+      "pandas-dev/pandas"
+    ]
+  }
+]

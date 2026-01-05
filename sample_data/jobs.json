@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Software Engineer Intern",
+    "company": "Google",
+    "description": "Join our team as a Software Engineer Intern and work on cutting-edge projects that impact billions of users worldwide. You'll collaborate with experienced engineers, contribute to production code, and gain hands-on experience with large-scale distributed systems. Responsibilities include designing and implementing new features, writing clean and efficient code, participating in code reviews, and working with cross-functional teams. This is an excellent opportunity to learn from industry leaders and make a real impact.",
+    "salary": "$7,000 - $9,000/month",
+    "location": "Mountain View, CA",
+    "tags": ["Backend", "Python", "Go", "Distributed Systems"],
+    "applyLink": "https://careers.google.com/jobs",
+    "logo": "https://logo.clearbit.com/google.com"
+  },
+  {
+    "title": "Frontend Developer Intern",
+    "company": "Meta",
+    "description": "As a Frontend Developer Intern at Meta, you'll build the next generation of social technologies. Work on React-based applications that connect billions of people around the world. You'll design and implement user interfaces, optimize performance, collaborate with designers and product managers, and ship code to production. This role offers mentorship from senior engineers and the chance to work on products used by billions.",
+    "salary": "$8,000/month",
+    "location": "Menlo Park, CA",
+    "tags": ["Frontend", "React", "JavaScript", "TypeScript"],
+    "applyLink": "https://www.metacareers.com/jobs",
+    "logo": "https://logo.clearbit.com/meta.com"
+  },
+  {
+    "title": "ML Engineer Intern",
+    "company": "Microsoft",
+    "description": "Join Microsoft's AI team and work on machine learning models that power products used by millions. You'll research and implement ML algorithms, train and deploy models at scale, work with large datasets, and collaborate with researchers and engineers. This internship provides exposure to cutting-edge AI research and the opportunity to work on real-world applications in computer vision, NLP, and recommendation systems.",
+    "salary": "$7,500/month",
+    "location": "Redmond, WA",
+    "tags": ["AI/ML", "Python", "TensorFlow", "PyTorch"],
+    "applyLink": "https://careers.microsoft.com",
+    "logo": "https://logo.clearbit.com/microsoft.com"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Amazon",
+    "description": "Amazon is seeking a Full Stack Developer to build scalable web applications for our e-commerce platform. You'll work across the entire stack, from designing database schemas to creating responsive user interfaces. Responsibilities include developing new features, optimizing application performance, maintaining existing code, and participating in on-call rotations. This role requires strong problem-solving skills and the ability to work in a fast-paced environment.",
+    "salary": "$120,000 - $150,000/year",
+    "location": "Seattle, WA",
+    "tags": ["Full Stack", "Java", "React", "AWS"],
+    "applyLink": "https://amazon.jobs",
+    "logo": "https://logo.clearbit.com/amazon.com"
+  },
+  {
+    "title": "DevOps Engineer Intern",
+    "company": "Netflix",
+    "description": "Join Netflix's Cloud Platform team and help build the infrastructure that streams entertainment to millions of devices worldwide. As a DevOps Intern, you'll automate deployment pipelines, monitor system performance, implement infrastructure as code, and work with containerization technologies. You'll gain experience with AWS, Kubernetes, and modern DevOps practices while working on challenges at massive scale.",
+    "salary": "$8,500/month",
+    "location": "Los Gatos, CA",
+    "tags": ["DevOps", "AWS", "Kubernetes", "Docker"],
+    "applyLink": "https://jobs.netflix.com",
+    "logo": "https://logo.clearbit.com/netflix.com"
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "Stripe",
+    "description": "Stripe is looking for a Backend Engineer to build and scale our payments infrastructure. You'll design and implement APIs, optimize database queries, ensure system reliability, and work on distributed systems that process billions of dollars in transactions. This role involves solving complex technical challenges, writing clean and maintainable code, and collaborating with teams across the company to deliver features that help businesses grow.",
+    "salary": "$130,000 - $160,000/year",
+    "location": "Remote",
+    "tags": ["Backend", "Ruby", "Go", "PostgreSQL"],
+    "applyLink": "https://stripe.com/jobs",
+    "logo": "https://logo.clearbit.com/stripe.com"
+  },
+  {
+    "title": "Mobile Developer Intern",
+    "company": "Uber",
+    "description": "Build the future of mobility as a Mobile Developer Intern at Uber. You'll develop features for our iOS and Android apps, implement new user interfaces, integrate with backend services, and optimize app performance. Work alongside experienced mobile engineers, participate in design discussions, and see your code impact millions of riders and drivers. This internship provides hands-on experience with native mobile development and modern app architectures.",
+    "salary": "$7,000/month",
+    "location": "San Francisco, CA",
+    "tags": ["Mobile", "iOS", "Android", "Swift", "Kotlin"],
+    "applyLink": "https://www.uber.com/careers",
+    "logo": "https://logo.clearbit.com/uber.com"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Airbnb",
+    "description": "As a Data Scientist at Airbnb, you'll analyze data to drive product decisions and improve user experiences. You'll build predictive models, conduct A/B tests, create data visualizations, and communicate insights to stakeholders. This role combines statistical analysis, machine learning, and business acumen to solve problems in areas like pricing optimization, search ranking, and fraud detection. You'll work with massive datasets and cutting-edge ML tools.",
+    "salary": "$140,000 - $170,000/year",
+    "location": "San Francisco, CA",
+    "tags": ["AI/ML", "Python", "Data Science", "SQL"],
+    "applyLink": "https://careers.airbnb.com",
+    "logo": "https://logo.clearbit.com/airbnb.com"
+  }
+]

@@ -1,0 +1,78 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ============================================
+    // USER DATA - Users can manage their own data
+    // ============================================
+
+    // User profiles - users can read/write their own data
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+
+      // Saved items subcollection
+      match /saved_items/{itemId} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+
+    // ============================================
+    // CONTENT COLLECTIONS - Read for authenticated users
+    // ============================================
+
+    // Jobs collection - authenticated users can read
+    match /jobs/{jobId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only admin via Firebase Console
+    }
+
+    // Internships collection - authenticated users can read
+    match /internships/{internshipId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only admin via Firebase Console
+    }
+
+    // Courses collection - TEMPORARY: allow write for initial upload
+    match /courses/{courseId} {
+      allow read: if request.auth != null;
+      allow write: if request.auth != null; // TEMPORARY - change to 'false' after data upload
+    }
+
+    // Guide/Books collection - TEMPORARY: allow write for initial upload
+    match /guide/{guideId} {
+      allow read: if request.auth != null;
+      allow write: if request.auth != null; // TEMPORARY - change to 'false' after data upload
+    }
+
+    // Roadmaps collection - authenticated users can read
+    match /roadmaps/{roadmapId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only admin via Firebase Console
+    }
+
+    // Colleges collection - authenticated users can read
+    match /colleges/{collegeId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only admin via Firebase Console
+    }
+
+    // GSoC Organizations - authenticated users can read
+    match /gsocOrgs/{orgId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only admin via Firebase Console
+    }
+
+    // Contributors - authenticated users can read
+    match /contributors/{contributorId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only admin via Firebase Console
+    }
+
+    // ============================================
+    // FALLBACK RULE - Deny all other access
+    // ============================================
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

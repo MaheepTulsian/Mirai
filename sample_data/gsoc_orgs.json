@@ -1,0 +1,67 @@
+[
+  {
+    "name": "TensorFlow",
+    "logo": "https://logo.clearbit.com/tensorflow.org",
+    "techStack": ["Python", "C++", "Machine Learning", "Deep Learning", "Neural Networks"],
+    "slots": "20-30",
+    "difficulty": "Hard",
+    "pastProjects": [
+      "TensorFlow.js integration for browser-based ML",
+      "Optimization of training pipelines for large models",
+      "Development of new visualization tools for TensorBoard"
+    ],
+    "website": "https://www.tensorflow.org"
+  },
+  {
+    "name": "Mozilla",
+    "logo": "https://logo.clearbit.com/mozilla.org",
+    "techStack": ["Rust", "JavaScript", "C++", "WebAssembly", "Web Standards"],
+    "slots": "15-25",
+    "difficulty": "Medium",
+    "pastProjects": [
+      "Firefox DevTools enhancement for debugging",
+      "Rust integration in Firefox core components",
+      "WebVR implementation for immersive experiences"
+    ],
+    "website": "https://www.mozilla.org"
+  },
+  {
+    "name": "Apache Software Foundation",
+    "logo": "https://logo.clearbit.com/apache.org",
+    "techStack": ["Java", "Python", "Scala", "Big Data", "Distributed Systems"],
+    "slots": "30-40",
+    "difficulty": "Medium",
+    "pastProjects": [
+      "Apache Kafka performance improvements",
+      "Apache Spark ML library enhancements",
+      "Apache Airflow UI/UX redesign"
+    ],
+    "website": "https://www.apache.org"
+  },
+  {
+    "name": "CNCF (Cloud Native Computing Foundation)",
+    "logo": "https://logo.clearbit.com/cncf.io",
+    "techStack": ["Go", "Kubernetes", "Docker", "Cloud Native", "DevOps"],
+    "slots": "25-35",
+    "difficulty": "Hard",
+    "pastProjects": [
+      "Kubernetes cluster autoscaling improvements",
+      "Prometheus monitoring enhancements",
+      "Helm chart security scanning tools"
+    ],
+    "website": "https://www.cncf.io"
+  },
+  {
+    "name": "NumPy",
+    "logo": "https://logo.clearbit.com/numpy.org",
+    "techStack": ["Python", "C", "Scientific Computing", "Linear Algebra"],
+    "slots": "10-15",
+    "difficulty": "Medium",
+    "pastProjects": [
+      "Performance optimization for matrix operations",
+      "Documentation improvements and tutorials",
+      "GPU acceleration support"
+    ],
+    "website": "https://numpy.org"
+  }
+]
